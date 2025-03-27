@@ -27,12 +27,10 @@
   "scripts": {
     "prepare": "husky"
   },
-  "config.commitizen": {
-    "config": {
-      "commitizen": {
-        "path": "./node_modules/cz-conventional-changelog",
-        "useGitmojis": true
-      }
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog",
+      "useGitmojis": true
     }
   }
 }
