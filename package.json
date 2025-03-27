@@ -14,5 +14,9 @@
   "bugs": {
     "url": "https://github.com/FFigueroa17/ca-taller-02/issues"
   },
-  "homepage": "https://github.com/FFigueroa17/ca-taller-02#readme"
+  "homepage": "https://github.com/FFigueroa17/ca-taller-02#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^19.8.0",
+    "@commitlint/config-conventional": "^19.8.0"
+  }
 }
